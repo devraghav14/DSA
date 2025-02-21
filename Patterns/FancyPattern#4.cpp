@@ -15,13 +15,19 @@ int main()
         {
             if (j <= condition / 2)
             {
+                if (j == 0)
+                {
+                    cout << "*";
+                }
                 cout << j + 1;
             }
             else
             {
+
                 cout << condition - j + 1;
             }
         }
+        cout << "*";
         cout << endl;
     }
 }
@@ -29,13 +35,13 @@ int main()
 /*
 Expected Output for n = 7
 
-1
-121
-12321
-1234321
-12321
-121
-1
+*1*
+*121*
+*12321*
+*1234321*
+*12321*
+*121*
+*1*
 
 
 */
