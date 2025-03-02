@@ -45,6 +45,21 @@ int main()
     cin >> userNum;
 
     int squareRoot = squareRootFinder(userNum);
+    int precision;
+    cout << "Enter the number of floating digits you want in your ans : ";
+    cin >> precision;
 
-    cout << "The square root of " << userNum << " is " << squareRoot << endl;
+    double step = 0.1;
+    double finalAns = squareRoot;
+
+    for (int i = 0; i < precision; i++)
+    {
+        for (double j = finalAns; j * j <= userNum; j = j + step)
+        {
+            finalAns = j;
+        }
+        step = step / 10;
+    }
+
+    cout << "The square root of " << userNum << " is " << finalAns;
 }
