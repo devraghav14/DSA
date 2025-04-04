@@ -97,6 +97,6 @@ int main()
     cout << firstCar->getCurrSpeed() << endl;
     cout << firstCar->getCost() << endl;
 
-    delete firstCar;
+    delete (firstCar);
     return 0;
 }
