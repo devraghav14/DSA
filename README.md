@@ -19,7 +19,7 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 - ✅ 100+ problems solved (and counting!)
 - ✅ Classic interview questions from platforms like LeetCode, GFG, etc.
 - ✅ Beginner-friendly and clean C++ solutions
-- ✅ Traffic boost: **30+ unique cloners** and **39 total clones** (thank you, awesome people!)
+- ✅ Traffic boost: **40+ unique cloners** and **61 total clones** (thank you, awesome people!)
 
 ---
 
