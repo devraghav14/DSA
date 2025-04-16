@@ -11,6 +11,7 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 - `Patterns/` – Classic pattern printing questions.
 - `AdditionalTopics/` – Covers topics like Kadane's Algorithm, Searching, etc.
 - `Linked Lists/` - Covers the data structure of Linked List
+- `Stack/` - Covers the data structure of Stack
 
 ---
 
@@ -27,7 +28,7 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 
 I'm actively working on expanding the repo with in-depth coverage of:
 
-- 📚 Stacks & Queues
+- 📚 Queues
 - 🛠️ Heaps & Priority Queues
 - 🌳 Trees (BSTs, Binary Trees, Traversals)
 - 🌐 Graphs (BFS, DFS, Dijkstra, etc.)
