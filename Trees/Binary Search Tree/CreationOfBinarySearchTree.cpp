@@ -28,11 +28,11 @@ node *insertintoBST(node *root, int data)
 
     if (root->data > data)
     {
-        insertintoBST(root->left, data);
+        root->left = insertintoBST(root->left, data);
     }
     else
     {
-        insertintoBST(root->right, data);
+        root->right = insertintoBST(root->right, data);
     }
     return root;
 }
