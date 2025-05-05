@@ -6,7 +6,7 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 
 ## 📁 Folder Structure
 
-- `Arrays/` – Array-based problems including subarrays, sliding window, etc.
+- `Arrays/` – Covers the data structure of Arrays
 - `Functions_Problem Statements/` – Function-driven problems (modular C++ practice).
 - `Patterns/` – Classic pattern printing questions.
 - `AdditionalTopics/` – Covers topics like Kadane's Algorithm, Searching, etc.
@@ -19,19 +19,20 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 
 ## 🚀 Repo Highlights
 
-- ✅ 100+ problems solved (and counting!)
+- ✅ 150+ problems solved (and counting!)
 - ✅ Classic interview questions from platforms like LeetCode, GFG, etc.
 - ✅ Beginner-friendly and clean C++ solutions
-- ✅ Traffic boost: **40+ unique cloners** and **61 total clones** (thank you, awesome people!)
+- ✅ Traffic boost: **70+ unique cloners** and **100+ total clones** (thank you, awesome people!)
 
 ---
 
 ## 📌 What's Coming Next?
 
-I'm actively working on expanding the repo with in-depth coverage of:
+I'm actively working on expanding the repo with in-depth coverage of(priority-wise):
 
-- 🛠️ Heaps & Priority Queues
 - 🌐 Graphs (BFS, DFS, Dijkstra, etc.)
+-     DSA Sheet of Striver
+-     Organizations specific problem solving directory
 
 👨‍💻 Let’s Connect
 If you’re also grinding DSA or found this helpful, let’s connect on LinkedIn(www.linkedin.com/in/devraghav10789).
