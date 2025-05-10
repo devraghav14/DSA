@@ -9,7 +9,7 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 - `Arrays/` – Covers the data structure of Arrays
 - `Functions_Problem Statements/` – Function-driven problems (modular C++ practice).
 - `Patterns/` – Classic pattern printing questions.
-- `AdditionalTopics/` – Covers topics like Kadane's Algorithm, Searching, etc.
+- `AdditionalTopics/` – Covers topics of OOPS Concepts, Optimal Mathematical Algos, DP, Hashmaps and Recursion
 - `Linked Lists/` - Covers the data structure of Linked List
 - `Stack/` - Covers the data structure of Stack
 - `Queue/` - Covers the data structure of Queues
@@ -19,7 +19,7 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 
 ## 🚀 Repo Highlights
 
-- ✅ 150+ problems solved (and counting!)
+- ✅ 200+ problems solved (and counting!)
 - ✅ Classic interview questions from platforms like LeetCode, GFG, etc.
 - ✅ Beginner-friendly and clean C++ solutions
 - ✅ Traffic boost: **70+ unique cloners** and **100+ total clones** (thank you, awesome people!)
