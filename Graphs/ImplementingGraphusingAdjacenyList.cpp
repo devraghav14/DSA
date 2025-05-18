@@ -3,13 +3,14 @@
 #include <list>
 
 using namespace std;
+template <typename t>
 
 class Graph
 {
 public:
-    unordered_map<int, list<int>> adj;
+    unordered_map<t, list<t>> adj;
 
-    void addEdge(int u, int v, bool direction)
+    void addEdge(t u, t v, bool direction)
     {
         adj[u].push_back(v);
         if (direction == 0)
@@ -41,7 +42,7 @@ int main()
     cout << "Enter the number of edges: ";
     cin >> userEdges;
 
-    Graph userGraph;
+    Graph<int> userGraph;
     bool isDirectional;
     cout << "Enter 0 if you want an undirectional graph and 1 if you want a directional graph : ";
     cin >> isDirectional;
