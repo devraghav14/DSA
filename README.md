@@ -14,6 +14,7 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 - `Stack/` - Covers the data structure of Stack
 - `Queue/` - Covers the data structure of Queues
 - `Trees/` - Covers the data structure of Trees
+- `Graphs/` - Covers the data structure of Graphs
 
 ---
 
@@ -30,7 +31,6 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 
 I'm actively working on expanding the repo with in-depth coverage of(priority-wise):
 
-- 🌐 Graphs (BFS, DFS, Dijkstra, etc.)
 -     DSA Sheet of Striver
 -     Organizations specific problem solving directory
 
