@@ -41,6 +41,7 @@ public:
         {
             mpp[s[r]]++;
 
+            
             while (mpp.size() > k)
             {
                 mpp[s[l]]--;
