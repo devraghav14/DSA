@@ -15,6 +15,7 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 - `Queue/` - Covers the data structure of Queues
 - `Trees/` - Covers the data structure of Trees
 - `Graphs/` - Covers the data structure of Graphs
+- `Practice/` - Covers DSA Sheets / Contests
 
 ---
 
@@ -26,13 +27,6 @@ This repository is a collection of DSA problems I'm solving in C++, with a focus
 - ✅ Traffic boost: **70+ unique cloners** and **100+ total clones** (thank you, awesome people!)
 
 ---
-
-## 📌 What's Coming Next?
-
-I'm actively working on expanding the repo with in-depth coverage of(priority-wise):
-
--     DSA Sheet
--     Organizations specific problem solving directory
 
 👨‍💻 Let’s Connect
 If you’re also grinding DSA or found this helpful, let’s connect on LinkedIn(www.linkedin.com/in/devraghav10789).
